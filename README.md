@@ -1,2 +1,2 @@
 # Java_studies
-Repository containing some Java study projecets
+Repository containing some Java study projects
